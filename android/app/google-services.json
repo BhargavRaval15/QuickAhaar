@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498954061516",
+    "project_id": "quickahaar-7fd39",
+    "storage_bucket": "quickahaar-7fd39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498954061516:android:0f0de06aec96a7bf956469",
+        "android_client_info": {
+          "package_name": "com.example.quickAhaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVqeyGtUdeKceqdXMfvKa0SQ8oqwhDjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
